@@ -87,5 +87,3 @@ Feel free to reach out if you have any questions or contributions!
 ### 👏 If you liked this project, don't forget to give it a ⭐ on GitHub!
 
 ---
-
-This `README.md` provides an overview of the project, setup instructions, and a structure guide to make the repository look professional and easy to navigate.
