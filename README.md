@@ -35,21 +35,21 @@ Welcome to the **Sentiment Analysis** project! This project analyzes text review
 ## ⚙️ Setup and Installation
 
 1. **Clone the repository**:
-    ``bash
+    bash
     git clone https://github.com/yourusername/sentiment-analysis.git
-    ```
+   
 2. **Navigate to the project directory**:
-    ``bash
+    bash
     cd sentiment-analysis
-    ```
+  
 3. **Install the required dependencies**:
-    ``bash
+    bash
     pip install -r requirements.txt
-    ```
+
 4. **Run the project**:
-    ``bash
+    bash
     python src/sentiment_analysis.py
-    ```
+  
 
 ## 📊 Example Output
 
